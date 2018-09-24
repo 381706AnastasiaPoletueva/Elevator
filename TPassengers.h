@@ -8,9 +8,9 @@ protected:
 int NumberOfPeople;
 int price;
 public:
-int GetNumberOfPeople;
-void SetNumberOfPeople(int a);
-int GetPrice;
-void SetPrice(int b);
+int GetNumberOfPeople();
+void SetNumberOfPeople();
+int GetPrice();
+void SetPrice();
 };
 #endif
