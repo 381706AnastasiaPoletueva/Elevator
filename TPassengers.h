@@ -9,8 +9,8 @@ int NumberOfPeople;
 int price;
 public:
 int GetNumberOfPeople;
-void SetNumberOfPeople;
+void SetNumberOfPeople(int a);
 int GetPrice;
-void SetPrice;
+void SetPrice(int b);
 };
 #endif
